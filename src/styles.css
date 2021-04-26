@@ -24,6 +24,7 @@ header {
 a:hover {
   text-decoration: underline;
   cursor: pointer;
+  color: white;
 }
 header * {
   display: inline;
